@@ -1,0 +1,8 @@
+{
+    "name": "ynab-vue-app",
+    "description": "YNAB Vue App",
+    "keywords": [
+      "app-cloud"
+    ],
+    "repository": "https://github.com/saracope/ynab-vue-app"
+  }
